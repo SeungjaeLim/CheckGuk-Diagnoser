@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Checkuk/static/css/main.9c0739b5.css",
-    "main.js": "/Checkuk/static/js/main.1bdcd5bd.js",
+    "main.js": "/Checkuk/static/js/main.9a40fb7b.js",
     "static/js/787.c4c6dd78.chunk.js": "/Checkuk/static/js/787.c4c6dd78.chunk.js",
     "static/media/poster.png": "/Checkuk/static/media/poster.2b35b7e6908708078747.png",
     "index.html": "/Checkuk/index.html",
     "main.9c0739b5.css.map": "/Checkuk/static/css/main.9c0739b5.css.map",
-    "main.1bdcd5bd.js.map": "/Checkuk/static/js/main.1bdcd5bd.js.map",
+    "main.9a40fb7b.js.map": "/Checkuk/static/js/main.9a40fb7b.js.map",
     "787.c4c6dd78.chunk.js.map": "/Checkuk/static/js/787.c4c6dd78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c0739b5.css",
-    "static/js/main.1bdcd5bd.js"
+    "static/js/main.9a40fb7b.js"
   ]
 }
